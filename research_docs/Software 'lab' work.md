@@ -7,7 +7,7 @@
 
 **Goal:** To set up and test some sensors and connect them with raspberry pi
 
-####Summary: 
+### Summary: 
 
 1. We installed raspberry pi noobs onto Hari’s computer and loaded it into onto the SD card
 2. We set up the raspberry pi and connected all the things to it (computer, mouse, sd card…)
@@ -24,12 +24,12 @@
 
 
 
-####Notes: 
+### Notes: 
 
 - Raspberry pi password --> **i<3science**, username --> **pi**
 - ip --> **192.168.1.164**
 
-#### To Do:
+### To Do:
 
 - Modify the code or the circuits (maybe both) to get the program to check for inputs successfully
 - Create data-collecting infrastructure (how?)
