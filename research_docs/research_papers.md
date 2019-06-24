@@ -44,4 +44,11 @@
 * This paper discusses a way to optimize production in bioreactors using metabolic control analysis and gradients - maybe we can modify this to create a control feedback??
 * Google Doc - <https://docs.google.com/document/d/1xK8Kih0fW-uLTYBGus8ZJL-SWLxFLPjVpRO0IhMS23E/edit#>
 
-2. 
+## Control Feedback
+
+1. Modeling of control feedback loop
+
+* Wetter 2018
+* [https://www.ashrae.org/File%20Library/Conferences/Specialty%20Conferences/2018%20Building%20Performance%20Analysis%20Conference%20and%20SimBuild/Papers/C107.pdf](https://www.ashrae.org/File Library/Conferences/Specialty Conferences/2018 Building Performance Analysis Conference and SimBuild/Papers/C107.pdf)
+* A programming language (control description language) was created that allows for modeling of a control feedback loop. Created with Modelica packaging and is based on the programming language C
+
