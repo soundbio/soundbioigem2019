@@ -27,5 +27,21 @@
 - This paper discusses the different models for gene expression, their uses and their limitations
 - Google Doc link: https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit?usp=sharing
 
+3. Metabolic modeling
+
+* de Souza 2018
+* <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-66322018000300869>
+* *I haven't looked into this paper* 
+
 
 ## Papers on Bioreactors
+
+1. **Metabolic Control Analysis** for optimizing and modeling condition in bioreactors
+
+* Konde 2007
+* <https://drive.google.com/file/d/1ClUZTHjfVCXFfBZ4bgbs0aFUcKGbaJTo/view>
+* Keywords: Bioreactor optimization, gradients from mca
+* This paper discusses a way to optimize production in bioreactors using metabolic control analysis and gradients - maybe we can modify this to create a control feedback??
+* Google Doc - <https://docs.google.com/document/d/1xK8Kih0fW-uLTYBGus8ZJL-SWLxFLPjVpRO0IhMS23E/edit#>
+
+2. 
