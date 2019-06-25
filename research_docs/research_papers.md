@@ -52,3 +52,10 @@
 * [https://www.ashrae.org/File%20Library/Conferences/Specialty%20Conferences/2018%20Building%20Performance%20Analysis%20Conference%20and%20SimBuild/Papers/C107.pdf](https://www.ashrae.org/File Library/Conferences/Specialty Conferences/2018 Building Performance Analysis Conference and SimBuild/Papers/C107.pdf)
 * A programming language (control description language) was created that allows for modeling of a control feedback loop. Created with Modelica packaging and is based on the programming language C
 
+2. Control feedback in bioreactor
+
+* Wang 2012
+* <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.853.7115&rep=rep1&type=pdf>
+
+
+
