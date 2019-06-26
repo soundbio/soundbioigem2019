@@ -2,7 +2,15 @@
 
 ## Flux Balance Analysis Papers
 
-1. Dynamic Flux Balance Modeling of Microbial Co-Cultures for Efficient Batch Fermentation of Glucose and Xylose Mixtures
+1. What is Flux Balance Analysis?
+
+- Orth 2010
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108565/
+- Keywords: Flux Balance Analysis, Metabolism, Objective Functions, Optimization
+- This paper explains Flux Balance Analysis, and includes several examples for the approach
+- Google Doc link: https://docs.google.com/document/d/1m507lU6X4xvYbcJVDEw61Ca09nR0bEJ5oI17GInpBmg/edit?usp=sharing
+
+2. Dynamic Flux Balance Modeling of Microbial Co-Cultures for Efficient Batch Fermentation of Glucose and Xylose Mixtures
 
 - Hanly 2010
 - http://www.ecs.umass.edu/che/henson_group/research/microbial/btbe11h.pdf
@@ -15,7 +23,7 @@
 
 - Chen 1999
 - http://arep.med.harvard.edu/pdf/Chen99.pdf
--Keywords: Dynamic Modeling, Differential Equations, Gene Expression, mRNA and Protein Concentration
+- Keywords: Dynamic Modeling, Differential Equations, Gene Expression, mRNA and Protein Concentration
 - This paper goes in-depth on different dynamic models used to represent protein and mRNA concentrations
 - Google Doc link: https://docs.google.com/document/d/1m507lU6X4xvYbcJVDEw61Ca09nR0bEJ5oI17GInpBmg/edit?usp=sharing
 
