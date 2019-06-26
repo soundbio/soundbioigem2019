@@ -16,6 +16,7 @@
 - http://www.ecs.umass.edu/che/henson_group/research/microbial/btbe11h.pdf
 - Keywords: Dynamic Flux Balance Analysis, Co-Cultures, E. coli, S. cerevisae
 - This paper introduces a way to do Dynamic FBA for co-cultures, maybe we can use this for K. rhaeticus and E. coli?
+- Google Doc link: https://docs.google.com/document/d/1m507lU6X4xvYbcJVDEw61Ca09nR0bEJ5oI17GInpBmg/edit?usp=sharing
 
 ## Genetic Model Papers
 
