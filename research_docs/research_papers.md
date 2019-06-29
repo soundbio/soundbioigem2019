@@ -42,6 +42,14 @@
 * <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-66322018000300869>
 * *I haven't looked into this paper* 
 
+4. Boolean Modeling of Genetic Regulatory Networks
+
+- Albert 2004
+- https://sites.esm.psu.edu/~mcd18/sept7-04.pdf
+- Gene Regulation, Boolean Models, Gene Activation, mRNA and Protein Concentration, Regulatory Networks
+- This paper goes in-depth on Boolean models used to represent gene expression
+- Google Doc link: https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit?usp=sharing
+
 
 ## Papers on Bioreactors
 
