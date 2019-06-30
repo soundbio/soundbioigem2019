@@ -154,8 +154,8 @@ The key understanding here is that pi and dataplicity are two separate users. Fr
 *su pi*
 In order to change to pi@raspberrypi from remote access. The password is i<3science as seen before. From there, you can run python PythonTest.py and the console log will show up on your computer as well!
 I'm curious about how to export the data from pi@raspberrypi to an actual computer, however. I think scp from pi to dataplicity should be easy to do, but from dataplicity where do we go? How do we get it onto a computer...
-!!!!
-I think I figured it out (extraction is manual but thats probably ok for our purposes. Follow the steps below from startup
+
+Ok well I figured out a nice file transfer method if you share wifi:
 - start your computer, go to dataplicity.com and log in as me (ericpingxia@gmail.com, soundbio or i<3science I think)
 - select Raspberry Pi Model etc... (the only option) 
 - you should have a prompt labeled dataplicity@raspberrypi:/$
@@ -165,11 +165,14 @@ I think I figured it out (extraction is manual but thats probably ok for our pur
 - Use the drop down to get to option 5, select it, then "P2 SSH"
 - Enable SSH
 - Now that SSH is enabled, click finish, which should return you to pi@raspberrypi:/ $
- - Download Winzip, I know its another software but it will be very useful
- - Enter 192.168.1.164 as the IP, 22 as port number as usual. leave the dropdown as SFTP. No username or password needed. Click connect
+ - Download WinSCP
+ - Enter 192.168.1.164 as the IP, 22 as port number as usual in WinSCP. leave the dropdown as SFTP. No username or password needed. Click connect
  - Enter pi as the username and i<3science as the password in the following popup.
  - Connect. There should be two file managers, one on the Pi side and one on computer side. Simply copy and paste files you need
 ### Notes
+Still doesn't work for remote file transfer
 ### To-Do
-
+Remote file transfer
+Working with temperature sensors
+see above
 
