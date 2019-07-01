@@ -108,39 +108,6 @@ or: scp file.txt [destination IP]:/[destination path])
 
 * Try out fcp command instead to copy file from raspberry pi to your computer
 * make a program with a simple feedback loop to control temperature (using temperature sensor), but replace heater output with an LED (should be in the bag) - why is temperature sensor giving only 0 and 1?
-* 
-**Date:** 6/24/2019
-
-**Members:** Hari, Eric
-
-**Goal:** correctly get sensor input, write it to a csv file, accessible remotely.
-
-### Summary
-
-1. Correctly initialized the r pi input (using GPIO # based referencing to pins)  
-2. Testing sensors, creating a csv to write data to.
-3. Testing ssh commands, including "python", "nohup", "kill [PID]", "killall" (oops).
-4. Set up a pid text document where the program prints its pid every time it is run, allowing remote terminations
-
-### Notes & commands to use:
-
-- all these files can be found on the Desktop
-- "cd [foldername]" to navigate to a subfolder, use ".." to go out of the current folder
-- "ls" to list all items in current directory
-- "python [filename.py]" to execute a program. include "-u" after python to see outputs.
-- add "nohup" (no hangup) before python command (without "-u") to keep program running after you disconnect.
-- DON'T run two nohup python files concurrently, since only one pid is stored in "pid.txt".
-- kill [pid from pid.txt] to stop a program
-- "pico [filename.txt]" to edit text (can be done with .csv and .py)
-- "killall python" to stop all python scripts
-
-### To Do:
-
-- find command to copy file from raspberry pi to your computer
-(try: scp pi@raspberrypi:/Desktop/test.txt /path/to/destination  
-or: scp file.txt [destination IP]:/[destination path])
-- use [dataplicity](https://www.dataplicity.com/) to connect with the pi over the internet
-- make a program with a simple feedback loop to control temperature (using temperature sensor), but replace heater output with an LED (should be in the bag)
 
 
 
@@ -154,6 +121,7 @@ From the dataplicity client, you must run *su pi* in order to change to pi@raspb
 I'm curious about how to export the data from pi@raspberrypi to an actual computer, however. I think scp from pi to dataplicity should be easy to do, but from dataplicity where do we go? How do we get it onto a computer...
 https://docs.dataplicity.com/docs/file-transfer-via-porthole
 follow the tutorial above ^^^ You will need to download Dataplicity Porthole and WinSCP, but it works remotely!!! I tested it with a personal hotspot. Basically you enable SSH over Dataplicity, and then you are assigning a local port to a remote port or something so you can transfer the file to the local system.
+
 ### Notes
 This is manual, but it can be done from anywhere. The interface is also very easy to use. (WinSCP allows copy paste of files from one side of the directory to the other)
 ### To-Do
