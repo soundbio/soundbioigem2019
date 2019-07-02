@@ -124,7 +124,18 @@ follow the tutorial above ^^^ You will need to download Dataplicity Porthole and
 
 ### Notes
 This is manual, but it can be done from anywhere. The interface is also very easy to use. (WinSCP allows copy paste of files from one side of the directory to the other)
+
+**Date:** 7/2/19
+
+**Members:** Eric,Claris
+**Goal:** Enable the ideal and best remote goal: VNCViewer from anywhere.
+### Summary
+Basically we messed around a lot with vncserver installation, some confusion but everything works now. We added a .config file that runs vncserver everytime on startup, and we enabled cloud sign-in on VNCserver. In short, here are the simple and easy steps to running the pi desktop remotely, guaranteed to be the real pi desktop:
+1. download VNCviewer and sign in as [ericpingxia@gmail.com], soundbio (or might be i<3science)
+2. type "raspberrypi" into the search bar and connect. 
+\nEASY!
+### Notes
+File transfer is still best through WINscp probably. This method is even better than dataplicity, although if you want authenticity you can still use it.
 ### To-Do
 Working with temperature sensors
-see above
 
