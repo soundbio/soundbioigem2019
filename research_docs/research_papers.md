@@ -46,8 +46,16 @@
 
 - Albert 2004
 - https://sites.esm.psu.edu/~mcd18/sept7-04.pdf
-- Gene Regulation, Boolean Models, Gene Activation, mRNA and Protein Concentration, Regulatory Networks
+- Keywords: Gene Regulation, Boolean Models, Gene Activation, mRNA and Protein Concentration, Regulatory Networks
 - This paper goes in-depth on Boolean models used to represent gene expression
+- Google Doc link: https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit?usp=sharing
+
+5. Time-Delayed Models of Gene Regulatory Networks
+
+- Hogan 2015
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4632181/
+- Keywords: Genetic Regulatory Networks, Differential Equations, Time-Delay Differential Equations, Mathematical Models, Gene Expression and Repression
+- This paper introduces time-delay differential equations (DDEs) as a more precise form of a dynamic model at the cost of additional parameters
 - Google Doc link: https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit?usp=sharing
 
 
