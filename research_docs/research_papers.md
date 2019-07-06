@@ -69,6 +69,20 @@
 * This paper discusses a way to optimize production in bioreactors using metabolic control analysis and gradients - maybe we can modify this to create a control feedback??
 * Google Doc - <https://docs.google.com/document/d/1xK8Kih0fW-uLTYBGus8ZJL-SWLxFLPjVpRO0IhMS23E/edit#>
 
+2. Axial Dispersion Model for Simulation of an Airlift Bioreactor
+
+* Sikula 2019
+* <http://folk.ntnu.no/skoge/prost/proceedings/ecce6_sep07/upload/2857.pdf>
+* Keywords: airlift bioreactor, gluconic acid fermentation, mathematical modeling, scale-up 
+* Uses the axial dispersion model to describe the material balances and other processes within an airlift bioreactor (meant for optimization of the reactor)
+
+3. Modeling and simulation of tanks-in-series airlift bioreactors for production of lactic acid by fermentation
+
+* Vafajoo 2011
+* <https://sci-hub.tw/https://link.springer.com/article/10.1007/s11814-011-0062-0>
+* Keywords: Airlift Bioreactor, Lactic Acid, Dissolved Oxygen, Modeling, Bioreactors
+* Uses the tank-in-series model to describe the processes in an airlift bioreactor. This involves a kinetic model with ODEs.
+
 ## Control Feedback
 
 1. Modeling of control feedback loop
