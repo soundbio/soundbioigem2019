@@ -129,6 +129,7 @@ This is manual, but it can be done from anywhere. The interface is also very eas
 
 **Members:** Eric,Claris
 **Goal:** Enable the ideal and best remote goal: VNCViewer from anywhere.
+
 ### Summary
 Basically we messed around a lot with vncserver installation, some confusion but everything works now. We added a .config file that runs vncserver everytime on startup, and we enabled cloud sign-in on VNCserver. In short, here are the simple and easy steps to running the pi desktop remotely, guaranteed to be the real pi desktop:
 1. download VNCviewer and sign in as [ericpingxia@gmail.com], soundbio (or might be i<3science)
@@ -139,3 +140,16 @@ File transfer is still best through WINscp probably. This method is even better 
 ### To-Do
 Working with temperature sensors
 
+
+
+**Date:** 7/12/19
+
+**Members:** Hari, Claris
+
+**Goal:** To get the temperature sensor to write actual temperature readings in Celsius to a text file, to begin working on the pH sensor
+
+
+
+### Summary
+
+* We were set up the breadboard setup for the temperature sensor
