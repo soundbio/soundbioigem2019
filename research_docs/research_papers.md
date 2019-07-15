@@ -58,7 +58,7 @@
 - This paper introduces time-delay differential equations (DDEs) as a more precise form of a dynamic model at the cost of additional parameters
 - Google Doc link: https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit?usp=sharing
 
-6. Modeling of Genetic Regulatory Networks: trp Operon
+6. Mathematical Modeling of Genetic Regulatory Networks 
 
 - de Jong
 - http://www-sop.inria.fr/comore/arcgdyn/28fev/arc03-intro.pdf 
@@ -66,7 +66,7 @@
 - This powerpoint slideshow entails the holistic approaches taken to model/simulate genetic regulatory networks using differential and stochastic equations
 - Google Doc Link: https://docs.google.com/document/d/1uae3WUxb3tbDkh8gJYE-q6gC02cstoYKv3DnkHOPva4/edit?usp=sharing 
 
-7. Mathematical Modeling of Genetic Regulatory Networks
+7. Modeling of Genetic Regulatory Networks: trp Operon
 
 - Santillan 2001
 - https://www.pnas.org/content/98/4/1364 
