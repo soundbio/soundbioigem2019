@@ -74,6 +74,13 @@
 - This paper goes over the attempt to model the dynamic regulation of the trp operon with differential equations and the conclusions drawn based on its results
 - Google Doc Link: https://docs.google.com/document/d/1h7T2cobh5s7ftF0K85CMFK6vM1IeWwyhzG9ifNn8Xgs/edit?usp=sharing
 
+8. Modeling of gene regulatory networks: A review
+
+- Vijesh 2012
+- http://file.scirp.org/pdf/JBiSE_2013022716483315.pdf
+- Keywords: Gene Regulatory Network, Logical Models, Continuous Models, Differential Equations
+- This paper explains different ways to model gene regulatory networks, and things to keep in mind when modeling
+- https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit
 
 ## Papers on Bioreactors
 
