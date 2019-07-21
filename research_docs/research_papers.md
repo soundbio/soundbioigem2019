@@ -58,6 +58,29 @@
 - This paper introduces time-delay differential equations (DDEs) as a more precise form of a dynamic model at the cost of additional parameters
 - Google Doc link: https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit?usp=sharing
 
+6. Mathematical Modeling of Genetic Regulatory Networks 
+
+- de Jong
+- http://www-sop.inria.fr/comore/arcgdyn/28fev/arc03-intro.pdf 
+- Keywords: Gene Regulation, Stochastic Equation Models, Differential Equation Models, Genetic Regulatory Networks
+- This powerpoint slideshow entails the holistic approaches taken to model/simulate genetic regulatory networks using differential and stochastic equations
+- Google Doc Link: https://docs.google.com/document/d/1uae3WUxb3tbDkh8gJYE-q6gC02cstoYKv3DnkHOPva4/edit?usp=sharing 
+
+7. Modeling of Genetic Regulatory Networks: trp Operon
+
+- Santillan 2001
+- https://www.pnas.org/content/98/4/1364 
+- Keywords: Gene Regulation, Differential Equation Models, Genetic Regulatory Networks, trp Operon, E Coli
+- This paper goes over the attempt to model the dynamic regulation of the trp operon with differential equations and the conclusions drawn based on its results
+- Google Doc Link: https://docs.google.com/document/d/1h7T2cobh5s7ftF0K85CMFK6vM1IeWwyhzG9ifNn8Xgs/edit?usp=sharing
+
+8. Modeling of gene regulatory networks: A review
+
+- Vijesh 2012
+- http://file.scirp.org/pdf/JBiSE_2013022716483315.pdf
+- Keywords: Gene Regulatory Network, Logical Models, Continuous Models, Differential Equations
+- This paper explains different ways to model gene regulatory networks, and things to keep in mind when modeling
+- https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit
 
 ## Papers on Bioreactors
 
