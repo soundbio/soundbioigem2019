@@ -147,9 +147,7 @@ Working with temperature sensors
 
 **Goal:** To get the temperature sensor to write actual temperature readings in Celsius to a text file, to begin working on the pH sensor
 
-
 ### Summary
-
 * We wired the temperature sensor, but there was a reading of 0 from the gpio pin.
 
 
