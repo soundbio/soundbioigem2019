@@ -139,3 +139,21 @@ File transfer is still best through WINscp probably. This method is even better 
 ### To-Do
 Working with temperature sensors
 
+**Date:** 7/19/19 - 7/20/19
+
+**Members:** Hari
+**Goal:** Initialize the temperature sensor and get the correct readings printed to the csv
+### Summary
+On the first day, I followed [these] (http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/) instructions for setting up the sensor,
+but the device wasn't listed under the specified file path.  
+Then, following the useful tips on [this forum discussion] (https://raspberrypi.stackexchange.com/questions/3606/ds18b20-temperature-sensor-not-listed),
+ I was able to get the temperature sensor's readings into its text file.  
+Specifically, I added "gpiopin=24" to config.txt, and rewired my pi like a picture had shown (a minor change, but maybe important).
+Later, I modified the code to read the right part of this text file, and use that as the temperature.
+I also made the time be recorded in minutes from 12 AM, and the date disclude the year (just to make it more compact and readable).
+### Notes
+- I was able to use dataplicity to perform all the code changes remotely (really useful)
+- The lab is currently a pleasant 23.875 degrees Celsius
+- 28-000008fe746d is the name of the sensor, if that's ever useful
+### To-Do
+Set up dissolved oxygen sensor, test the PID controller
