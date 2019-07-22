@@ -106,6 +106,15 @@
 * Keywords: Airlift Bioreactor, Lactic Acid, Dissolved Oxygen, Modeling, Bioreactors
 * Uses the tank-in-series model to describe the processes in an airlift bioreactor. This involves a kinetic model with ODEs.
 
+## Optogenetic Modeling
+
+1. Computational Models of Optogenetic Tools for Controlling Neural Circuits with Light
+
+- Nikolic 2013
+- <https://drive.google.com/file/d/1CXgNQyJNBpWsNy2QxMOTvOr6FTlcGTnz/view>
+- Keywords: Optogenetics, Neural Circuits, Light, Computational Models
+- Not finished yet
+
 ## Control Feedback
 
 1. Modeling of control feedback loop
