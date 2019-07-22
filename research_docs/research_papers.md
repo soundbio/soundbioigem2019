@@ -128,5 +128,10 @@
 * Wang 2012
 * <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.853.7115&rep=rep1&type=pdf>
 
+## Time-Delay Differential Equations
 
+1. Delay Differential Equations
+
+- Betram
+- https://www.math.fsu.edu/~bertram/lectures/delay.pdf
 
