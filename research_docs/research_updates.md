@@ -1,6 +1,12 @@
 # Research Updates
+
 ## 2019-07-21
+
 ### Arya  
+
+- I looked into time-delay differential equations, their benefits and their vices. Upon further research, DDEs seem very promising. The added complexity is much lower than face value, and they do add an extra level of precision. The main downside at this point is the buttload of extra parameters that it will require.
+- I looked into different ways of representing the light variable in the optogenetic cicuits. As of right now, the most promising measurement seems to be photon flux, measured in number of photons per area-second.
+
 ### Claris  
 
 * I researched into reinforcement learning models. These models involve creating multiple models and simulations based on real time data. However, I am not sure if this would be considered a  mathematical model because the    code that we would write would not be a model but would create mathematical models in time intervals, I think.
@@ -13,4 +19,7 @@
 
 
 ### Keerthana  
-### Vrishab  
+
+### Vrishab 
+
+## 2019-07-28
