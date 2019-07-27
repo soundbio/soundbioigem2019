@@ -106,6 +106,14 @@
 * Keywords: Airlift Bioreactor, Lactic Acid, Dissolved Oxygen, Modeling, Bioreactors
 * Uses the tank-in-series model to describe the processes in an airlift bioreactor. This involves a kinetic model with ODEs.
 
+3. Modelling of Gradients in Large-Scale bioreactors
+
+* Bach, Christian 2018
+* <https://orbit.dtu.dk/files/162546025/ThesisFinal_Christian_Bach_samlet_trykfil.pdf>
+* Keywords: Bubble column bioreactor,  Gradient Modeling, Computation fluid dynamic modeling
+* Uses gradient modeling coupled with computational fluid dynamics to model fed batch, static, or bubble column bioreactor. May be useful as a guide if we choose to write our guide for gradient modelling
+* Google Doc - <https://docs.google.com/document/d/1xK8Kih0fW-uLTYBGus8ZJL-SWLxFLPjVpRO0IhMS23E/edit#>
+
 ## Optogenetic Modeling
 
 1. Computational Models of Optogenetic Tools for Controlling Neural Circuits with Light
