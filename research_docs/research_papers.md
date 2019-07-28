@@ -63,7 +63,7 @@
 - de Jong
 - http://www-sop.inria.fr/comore/arcgdyn/28fev/arc03-intro.pdf 
 - Keywords: Gene Regulation, Stochastic Equation Models, Differential Equation Models, Genetic Regulatory Networks
-- This powerpoint slideshow entails the holistic approaches taken to model/simulate genetic regulatory networks using differential and stochastic equations
+- This lecture entails the holistic approaches taken to model/simulate genetic regulatory networks using differential and stochastic equations
 - Google Doc Link: https://docs.google.com/document/d/1uae3WUxb3tbDkh8gJYE-q6gC02cstoYKv3DnkHOPva4/edit?usp=sharing 
 
 7. Modeling of Genetic Regulatory Networks: trp Operon
@@ -81,6 +81,21 @@
 - Keywords: Gene Regulatory Network, Logical Models, Continuous Models, Differential Equations
 - This paper explains different ways to model gene regulatory networks, and things to keep in mind when modeling
 - https://docs.google.com/document/d/1r9FvnCejtlw1pJAxRkLCG7mbPTgzpnMWU0EtHToJg9E/edit
+
+## Time-Delay Differential Equations
+
+1. Delay Differential Equations
+
+- Betram
+- https://www.math.fsu.edu/~bertram/lectures/delay.pdf
+
+2. Gene Expression and Delay-Differential Equations
+
+- Roussel
+- http://people.uleth.ca/~roussel/C4000biochemnet/slides/16DDE.pdf
+- Keywords: Delay Differential Equations, Rate Equations
+- This lecture explains delay-differential equations is an easy-to-understand way, and explains what to consider when using delay-differential equations
+- https://docs.google.com/document/d/1m507lU6X4xvYbcJVDEw61Ca09nR0bEJ5oI17GInpBmg/edit
 
 ## Papers on Bioreactors
 
@@ -135,11 +150,4 @@
 
 * Wang 2012
 * <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.853.7115&rep=rep1&type=pdf>
-
-## Time-Delay Differential Equations
-
-1. Delay Differential Equations
-
-- Betram
-- https://www.math.fsu.edu/~bertram/lectures/delay.pdf
 
