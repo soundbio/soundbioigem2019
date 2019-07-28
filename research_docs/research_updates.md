@@ -22,4 +22,8 @@
 
 ### Vrishab 
 
+* As per my task on todoist, I delved into finding which genetic circuits we actually need to model. Planting a list of pros and cons enabled me to outline our options, and from there, we can decide as a team as to which method we will approach
+
+* I also looked into what the time delay differential equation modeling would look like. The mathematics involved were quite complex, but I have learned what distinguishes it from the typical PDE/ODE modeling --> I hope to learn more about this during today's meeting. 
+
 ## 2019-07-28
