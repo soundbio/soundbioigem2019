@@ -27,3 +27,9 @@
 * I also looked into what the time delay differential equation modeling would look like. The mathematics involved were quite complex, but I have learned what distinguishes it from the typical PDE/ODE modeling --> I hope to learn more about this during today's meeting. 
 
 ## 2019-07-28
+
+### Claris
+
+* I eliminated two of our previous bioreactor model options - the reinforcement model and the control feedback model - due to various reasons. 
+* I also did extensive research into the four remaining possible bioreactor models -- a metabolic control analysis model, gradient modelling, tank-in series modelling, and gradient modelling
+* After doing this research, I analyzed each model, writing down pros and cons for each model. It seems seems that the best options would be a mca model or gradient modelling.
