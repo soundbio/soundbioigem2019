@@ -5,7 +5,7 @@
 ### Arya  
 
 - I looked into time-delay differential equations, their benefits and their vices. Upon further research, DDEs seem very promising. The added complexity is much lower than face value, and they do add an extra level of precision. The main downside at this point is the buttload of extra parameters that it will require.
-- I looked into different ways of representing the light variable in the optogenetic cicuits. As of right now, the most promising measurement seems to be photon flux, measured in number of photons per area-second.
+- I looked into different ways of representing the light variable in the optogenetic circuits. As of right now, the most promising measurement seems to be photon flux, measured in number of photons per area-second.
 
 ### Claris  
 
@@ -17,19 +17,34 @@
 * I learned about the Box-Behnken design for optimizing parameters through a smaller number of designed experiments. This seems very borderline software, but could be used with known parameters in models to see what hardware changes effect them.  
 * I also researched bubble column reactors, which is the kind of design hardware is going with. These bioreactors have been used in the past to produce bacterial cellulose, and their models are simpler than those of internal loop airlift bioreactors (though they are structured similarly).
 
-
 ### Keerthana  
 
-### Vrishab 
+### Vrishab
 
 * As per my task on todoist, I delved into finding which genetic circuits we actually need to model. Planting a list of pros and cons enabled me to outline our options, and from there, we can decide as a team as to which method we will approach
 
-* I also looked into what the time delay differential equation modeling would look like. The mathematics involved were quite complex, but I have learned what distinguishes it from the typical PDE/ODE modeling --> I hope to learn more about this during today's meeting. 
+* I also looked into what the time delay differential equation modeling would look like. The mathematics involved were quite complex, but I have learned what distinguishes it from the typical PDE/ODE modeling --> I hope to learn more about this during today's meeting.
 
 ## 2019-07-28
 
+### Arya
+
+- I looked further into DDEs vs ODEs, finding that DDEs wouldn't be so hard to pull of; however, they would require a significant amount of additional parameters (including mRNA concentrations) that may be  hard to obtain
+- I looked into how we could model light in our genetic circuits. I came across three different methods:
+  1. Implement a boolean-type system where Cph8 production would be zero if there were red light
+  2. Model Cph8 production as inversely proportional to photon flux
+  3. Use this really complex mathematical formula as formulated by this paper: <https://drive.google.com/file/d/1XQLTFC-Wgr7cZnodB3M1nFAt0R0jweVD/view?usp=sharing>
+- The issue with (1) and (2) is that this isn't really how the light works
+- I also added to a doc about different model types, which is now obsolete (because we know that we will be using a dynamic model)
+
 ### Claris
 
-* I eliminated two of our previous bioreactor model options - the reinforcement model and the control feedback model - due to various reasons. 
+* I eliminated two of our previous bioreactor model options - the reinforcement model and the control feedback model - due to various reasons.
 * I also did extensive research into the four remaining possible bioreactor models -- a metabolic control analysis model, gradient modelling, tank-in series modelling, and gradient modelling
 * After doing this research, I analyzed each model, writing down pros and cons for each model. It seems seems that the best options would be a mca model or gradient modelling.
+
+### Hari
+
+### Keerthana
+
+### Vrishab
