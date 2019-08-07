@@ -48,3 +48,18 @@
 ### Keerthana
 
 ### Vrishab
+
+## 2019-8-4
+
+### Arya
+
+- This past week, I focused on finding parameters and modifying the model
+- I was able to find quite a few parameters which are deposited in the "model math" doc
+
+### Claris
+
+### Hari
+
+### Keerthana
+
+### Vrishab
