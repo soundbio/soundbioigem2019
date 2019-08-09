@@ -58,6 +58,9 @@
 
 ### Claris
 
+* This past week, I mainly worked on the bioreactor model write up
+* I did any relevant research into the four models
+
 ### Hari
 
 ### Keerthana
