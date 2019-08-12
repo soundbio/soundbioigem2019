@@ -49,7 +49,7 @@
 
 ### Vrishab
 
-## 2019-8-4
+## 2019-08-04
 
 ### Arya
 
@@ -60,6 +60,22 @@
 
 * This past week, I mainly worked on the bioreactor model write up
 * I did any relevant research into the four models
+
+### Hari
+
+### Keerthana
+
+### Vrishab
+
+## 2019-08-11
+
+### Arya
+
+- This past week, I focused on finding parameters and modifying the model
+- After my success on finding parameters last week, I couldn't really find anything else
+- I mostly focused on wetlab this week 
+
+### Claris
 
 ### Hari
 
