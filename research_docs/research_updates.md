@@ -66,3 +66,19 @@
 ### Keerthana
 
 ### Vrishab
+
+## 2019-8-11
+
+### Arya
+
+### Claris
+
+### Hari  
+
+* I researched ways to experimentally determine the degradation of the GFP + dCBD fusion protein.  
+I found a possible method that uses the biobrick characterization of the OmpC promoter and assumes the fusion protein has the same maturation time as sfGFP, to interpret our experimental data as a degradation rate.  
+* I searched for a few parameters involved in the axial dispersion gradient model, and added them to the parameter list.
+
+### Keerthana
+
+### Vrishab
