@@ -49,7 +49,7 @@
 
 ### Vrishab
 
-## 2019-8-4
+## 2019-08-04
 
 ### Arya
 
@@ -67,13 +67,17 @@
 
 ### Vrishab
 
-## 2019-8-11
+## 2019-08-11
 
 ### Arya
 
+- This past week, I focused on finding parameters and modifying the model
+- After my success on finding parameters last week, I couldn't really find anything else
+- I mostly focused on wetlab this week 
+
 ### Claris
 
-### Hari  
+### Hari
 
 * I researched ways to experimentally determine the degradation of the GFP + dCBD fusion protein.  
 I found a possible method that uses the biobrick characterization of the OmpC promoter and assumes the fusion protein has the same maturation time as sfGFP, to interpret our experimental data as a degradation rate.  
