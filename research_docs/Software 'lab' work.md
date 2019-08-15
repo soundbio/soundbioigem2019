@@ -169,3 +169,24 @@ I also made the time be recorded in minutes from 12 AM, and the date disclude th
 - 28-000008fe746d is the name of the sensor, if that's ever useful
 ### To-Do
 Set up dissolved oxygen sensor, test the PID controller
+
+**Date:** 7/19/19 - 7/20/19
+
+**Members:** Eric, Hari
+**Goal:** 
+Heating blankie setup
+### Summary
+We got the IC chip out of its container :)
+We set up the heating blankie and the 12-volt battery (which is a 9 volt and 2 1.5 volt batteries connected in series)
+We will have to update the wiring of the power system, right now it is just tape.
+Experimental setup
+- see wiring diagram in RPI setup document.
+- Temperature sensor is at the bottom of a 100 ml open pyrex bottle, taped in place at the 50 ml line to prevent movement. 
+### Notes
+Ran commands through putTTY (dataplicity is broken)
+### To-Do
+Set up ADC so we can start testing with DO and pH sensors.
+Redo experiment with real container
+
+
+
