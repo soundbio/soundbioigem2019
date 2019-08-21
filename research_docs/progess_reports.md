@@ -86,3 +86,19 @@ I found a possible method that uses the biobrick characterization of the OmpC pr
 ### Keerthana
 
 ### Vrishab
+
+## 2019-08-18
+
+### Arya
+
+- This past week, I found a kit called HiBiT that we could use to quantify Cph8 production and degredation rate
+- I also looked at the molecular biology "bible", but found nothing of use
+- I also attended th PNW iGEM meetup
+
+### Claris
+
+### Hari
+
+### Keerthana
+
+### Vrishab
