@@ -19,6 +19,7 @@
 
 ### Keerthana  
 
+
 ### Vrishab
 
 * As per my task on todoist, I delved into finding which genetic circuits we actually need to model. Planting a list of pros and cons enabled me to outline our options, and from there, we can decide as a team as to which method we will approach
@@ -47,6 +48,11 @@
 
 ### Keerthana
 
+- I worked on the doc about DDEs and ODEs, working on the descriptions and analysis.
+- I talked about the pros and cons of each, and what each option would require.
+- In the doc that explains the different model types, I added a section for DDEs that explains them in more detail.
+- I also added to the doc about figuring which genetic circuit we should model.
+
 ### Vrishab
 
 ## 2019-08-04
@@ -64,6 +70,9 @@
 ### Hari
 
 ### Keerthana
+
+- I started looking for parameters for the gene expression model.
+- I found a few parameters and updated them in the doc.
 
 ### Vrishab
 
@@ -85,6 +94,8 @@ I found a possible method that uses the biobrick characterization of the OmpC pr
 
 ### Keerthana
 
+* I continued to look for Cph8 degradation rate but I was not successful. 
+
 ### Vrishab
 
 ## 2019-08-18
@@ -100,5 +111,7 @@ I found a possible method that uses the biobrick characterization of the OmpC pr
 ### Hari
 
 ### Keerthana
+
+- I emailed Zurich about the parameters they estimated using INSIGHT (sorry I couldn't do much, I was out of town)
 
 ### Vrishab
