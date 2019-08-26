@@ -115,3 +115,18 @@ I found a possible method that uses the biobrick characterization of the OmpC pr
 - I emailed Zurich about the parameters they estimated using INSIGHT (sorry I couldn't do much, I was out of town)
 
 ### Vrishab
+
+## 2019-08-25
+
+### Arya
+
+### Claris
+
+### Hari
+
+### Keerthana
+
+- I looked for the Cph8 production rate in the paper, but it was not in there.
+- I familiarized myself with HiBiT and started to figure what equipment/materials we need.
+
+### Vrishab
