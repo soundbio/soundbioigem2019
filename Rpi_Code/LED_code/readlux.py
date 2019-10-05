@@ -22,6 +22,6 @@ for led in range(48)
     averageLux = sum(luxValues) / len(luxValues)
 
     with open('lux_values.csv', 'a') as csvfile:
-        csvfile.writerow([ledName, distance, averageLux])
+        csvfile.writerow([led, distance, averageLux])
 
 
