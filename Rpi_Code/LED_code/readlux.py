@@ -24,4 +24,3 @@ for led in range(48)
     with open('lux_values.csv', 'a') as csvfile:
         csvfile.writerow([led, distance, averageLux])
 
-
