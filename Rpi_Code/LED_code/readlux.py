@@ -14,9 +14,9 @@ filewriter.writerow(['LED', 'Distance', 'LuxValue'])
 for led in range(48)
 
     luxValues = []
-    distance = int(input())
+    print("calibrating led" + str(led))
 
-    for i in range(1000):
+    for i in range(5):
         luxValues.append(sensor.lux)
         
     averageLux = sum(luxValues) / len(luxValues)
